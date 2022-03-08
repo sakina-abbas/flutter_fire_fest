@@ -1,6 +1,6 @@
 # flutter_fire_fest
 
-A new Flutter application.
+Sample Flutter app with Firebase integration.
 
 ## Getting Started
 
