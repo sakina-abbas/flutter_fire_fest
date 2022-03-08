@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "430585471742",
+    "project_id": "penpal-385bb",
+    "storage_bucket": "penpal-385bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430585471742:android:dd4f8d26b631a5d0a2fbaf",
+        "android_client_info": {
+          "package_name": "com.reactree.flutter_fire_fest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430585471742-r6mhinr492h58poa58trgo4138bt1amm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZOnyOpCOv7JaaibxVMTKRlxoWGuj4R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430585471742-r6mhinr492h58poa58trgo4138bt1amm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430585471742:android:a193387f1c2c1843a2fbaf",
+        "android_client_info": {
+          "package_name": "com.reactree.penpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430585471742-r6mhinr492h58poa58trgo4138bt1amm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZOnyOpCOv7JaaibxVMTKRlxoWGuj4R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430585471742-r6mhinr492h58poa58trgo4138bt1amm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
